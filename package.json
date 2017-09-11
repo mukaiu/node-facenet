@@ -20,7 +20,7 @@
     "numjs": "^0.14.2",
     "printf": "^0.2.5",
     "python-bridge": "^1.0.3",
-    "rimraf": "^2.6.1",
+    "rimraf": "^2.6.2",
     "tar": "^4.0.1",
     "update-notifier": "^2.2.0"
   },
